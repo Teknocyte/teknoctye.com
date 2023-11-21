@@ -10,14 +10,71 @@
 }
 
 #about {
-    height: 100vh;
+    min-height: 100vh;
 }
 
 #services {
     background-color: #393E46;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .round-border-img {   
-    border-radius: 50%;   
+    border-radius: 50%;
+    background-color: #212529;
+    border: #00ACB4 solid 5px;    
+    padding: 15px;   
 }
+
+.about-img {
+    width: 350px;
+}
+
+.service-card {
+    border: #00ACB4 solid 3px;
+}
+
+.btn-teal {
+    background-color: #212529;
+    color: #fff;
+    border: #00ACB4 2px solid;
+}
+
+.btn-teal:hover {
+    background-color: #00ACB4;
+}
+
+
+
+@media (max-width: 1199px) {
+    .about-img {
+        width: 250px;
+        margin-bottom: 20px;        
+    }
+    
+}
+@media (max-width: 991px) {
+    .about-img {
+        width: 200px;        
+    }
+    
+}
+
+@media (max-width: 767px) {
+    .about-img {
+        width: 165px;        
+    }
+    
+}
+
+@media (max-width: 575px) {
+    .about-img {
+        display: none;        
+    }
+
+    .about-sm-img {
+        display: block;
+        margin: auto;
+    }
+    
+}
+
