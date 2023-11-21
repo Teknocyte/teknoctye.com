@@ -1,0 +1,23 @@
+.main-nav {
+    border-bottom: #00ACB4 solid 3px;
+}
+
+#home {
+    
+    padding-top: 4rem;
+    background-color: #393E46    
+    
+}
+
+#about {
+    height: 100vh;
+}
+
+#services {
+    background-color: #393E46;
+    height: 100vh;
+}
+
+.round-border-img {   
+    border-radius: 50%;   
+}
