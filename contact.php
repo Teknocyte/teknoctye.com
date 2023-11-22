@@ -47,7 +47,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         mail($to, $subject, $email_message, $headers);
 
         // Optionally, you can redirect the user to a thank you page
-        header("Location: index.html");
+        header("Location: ./index.html");
         exit();
     }
 }
