@@ -21,6 +21,11 @@
     background-color: #393E46;
     min-height: 100vh;
 }
+
+.hero {
+    background-color: rgba(0, 0, 0, 0.75); 
+    height: 100%;
+}
 .form-outline-teal {
     border: #00ACB4 solid 3px;
 }
