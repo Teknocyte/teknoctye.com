@@ -39,7 +39,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/contact.php">Contact</a>
+          <a class="nav-link">Contact</a>
         </li>
       </ul>
       <ul class="navbar-nav">
@@ -60,7 +60,7 @@
           <h1 class="fw-light mt-auto">Empowering Success</h1>
           <p class="lead">Committed to client satisfaction, we build lasting business relationships. Let us know how we can serve you today.</p>
           <p>
-            <a href="/contact.php" class="btn btn-teal my-2">Contact Us</a> 
+            <a href="#" class="btn btn-teal my-2">Contact Us</a> 
           </p>          
         </div>
       </div>
@@ -95,7 +95,7 @@
           <div class="card-body">
             <h5 class="card-title">Web Development</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/contact.php" class="btn btn-teal">Learn More</a>
+            <a href="#" class="btn btn-teal">Learn More</a>
           </div>
         </div>
 
@@ -106,7 +106,7 @@
           <div class="card-body">
             <h5 class="card-title">Device Repair</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/contact.php" class="btn btn-teal">Learn More</a>
+            <a href="#" class="btn btn-teal">Learn More</a>
           </div>
         </div>
 
@@ -117,7 +117,7 @@
           <div class="card-body">
             <h5 class="card-title">Custom PC Builds</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/contact.php" class="btn btn-teal">Learn More</a>
+            <a href="#" class="btn btn-teal">Learn More</a>
           </div>
         </div>
 

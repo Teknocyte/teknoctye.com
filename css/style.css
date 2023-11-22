@@ -5,8 +5,7 @@
 #home {
     
     padding-top: 4rem;
-    background-color: #393E46    
-    
+    background: url('../img/heroBg.jpg');   
 }
 
 #about {
@@ -16,6 +15,18 @@
 #services {
     background-color: #393E46;
     min-height: 100vh;
+}
+
+#contact {
+    background-color: #393E46;
+    min-height: 100vh;
+}
+.form-outline-teal {
+    border: #00ACB4 solid 3px;
+}
+
+.error {
+    color: crimson;
 }
 
 .round-border-img {   
